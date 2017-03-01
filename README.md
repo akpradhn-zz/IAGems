@@ -1,6 +1,6 @@
 
 
 
-# New Portfoli is coming soon
+# New portfoli is coming soon.
 
 

@@ -40,7 +40,7 @@ syn0 = 2*np.random.random((3,4)) - 1  # 3x4 matrix of weights ((2 inputs + 1 bia
 syn1 = 2*np.random.random((4,1)) - 1  # 4x1 matrix of weights. (4 nodes x 1 output) - no bias term in the hidden layer.
 
 # training step
-#--------------------------------------------------------#
+
 for j in range(100000):
 
     # Calculate forward through the network.

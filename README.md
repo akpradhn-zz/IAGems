@@ -6,7 +6,7 @@
 
 | Sl no | Project Name | Details |  Link |
 | ----- | ------------ | ------------------------ | ---- |
-| 01 | Neural Network | Neural network Examles  | https://akpradhn.github.io/IAGems/NeuralNet/ |
+| 01 | Neural Network | Neural network Examples  | https://akpradhn.github.io/IAGems/NeuralNet/ |
 
 
 

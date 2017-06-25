@@ -7,6 +7,11 @@
 | Sl no | Project Name | Details |  Link |
 | ----- | ------------ | ------------------------ | ---- |
 | 01 | Neural Network | Neural network Examples  | https://akpradhn.github.io/IAGems/NeuralNet/ |
+| 02 | NanoProjects | Fun Python programs | https://github.com/akpradhn/IAGems/tree/master/NanoProjects |
+
+
+
+
 
 
 

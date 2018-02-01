@@ -17,7 +17,7 @@ Thie port folio
   ### Achievements : 
   Ranked 38 (Top 2.8%)  
   
-  ### Conclusion
+  ### Conclusion and Recommendations :
   Key Contributor to Sales Prediction :
   
   ### Program language Used :
@@ -25,9 +25,29 @@ Thie port folio
   
   ### Code Repository
   
-  
   ### Source:
   Analytics Vidya Hacathon Practice Problems
+
+
+## Project 2 : Predicting Poverty in the United States 
+
+  ### Problem Statements :
+  
+  ### Approach 
+    
+  ### Achievements : 
+  
+  ### Conclusion and Recommendations :
+  
+  ### Program language Used :
+  
+  ### Code Repository
+  
+  ### Source:
+  Data Science Capston Challange
+
+
+
 
 
 

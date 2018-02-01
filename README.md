@@ -5,8 +5,8 @@
 | Sl no | Project Name | Details |  Link |
 | ----- | ------------ | ------------------------ | ---- |
 | 01 | Neural Network | Neural network Examples  | (rnn_intro.md)|
-| 02 | NanoProjects | Fun Python/R programs | https://akpradhn.github.io/IAGems/NanoProjects |
-| 03 | RNN | Recurrent Neural Networks| https://akpradhn.github.io/IAGems/RNN|
+| 02 | NanoProjects | Fun Python/R programs | [NanoProjects](https://akpradhn.github.io/IAGems/NanoProjects) |
+| 03 | RNN | Recurrent Neural Networks| [RNNProjects](https://akpradhn.github.io/IAGems/RNN)|
 
 
 

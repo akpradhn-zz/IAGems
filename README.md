@@ -1,8 +1,9 @@
 
 # Data Science Projects
-
 This port folio enlist different data science practice problems availale over Internet/Hacathons/MOOCS etc.  
+
 ### Author: Amit Kumar Pradhan
+
 
 ## Project 1 : BigMart Sales Prediction
 

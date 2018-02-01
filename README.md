@@ -1,9 +1,8 @@
 
 # Data Science Projects
 
-Thie port folio 
-
-#### Amit Kumar Pradhan
+This port folio enlist different data science practice problems availale over Internet/Hacathons/MOOCS etc.  
+### Author: Amit Kumar Pradhan
 
 ## Project 1 : BigMart Sales Prediction
 
@@ -11,9 +10,9 @@ Thie port folio
   The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
   Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
   
-  ### Approach 
+  ### Approach and Results : 
   This was a supervised problem. A neural network algorithm was used to predict the sales quantity with an accuracy of _ %.
-  
+  RMSE with test data 1143.18.
   ### Achievements : 
   Ranked 38 (Top 2.8%)  
   
@@ -24,8 +23,9 @@ Thie port folio
   R 3.4 was used
   
   ### Code Repository
+  [BigMartSalesPrediction](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/BigMartSalesPrediction)
   
-  ### Source:
+  ### Project Source:
   Analytics Vidya Hacathon Practice Problems
 
 
@@ -33,7 +33,7 @@ Thie port folio
 
   ### Problem Statements :
   
-  ### Approach 
+  ### Approach and Results :
     
   ### Achievements : 
   
@@ -42,8 +42,8 @@ Thie port folio
   ### Program language Used :
   
   ### Code Repository
-  
-  ### Source:
+  [PredictPovertyInTheUS](https://github.com/akpradhn/IAGems/tree/portfolio/Projects/PredictPovertyInTheUS)
+  ### Project Source:
   Data Science Capston Challange
 
 

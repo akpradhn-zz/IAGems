@@ -5,8 +5,7 @@ This repository consist of resource collected from various resources and practic
   Coming Soon ....
 
 ### StudyMaterials
-  * 
-  
+   
 ### Extra
-  E_01
-  E_02
+  * https://github.com/akpradhn/IAGems/NeuralNet/E_01
+  * https://github.com/akpradhn/IAGems/NeuralNet/E_02
